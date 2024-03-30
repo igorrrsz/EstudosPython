@@ -1,10 +1,3 @@
-# Calculadora básica: Solicite ao usuário um número, um operador e em seguida outro
-# número, por exemplo: 1 + 1 2.3 * 2 5 – 2.7 9.3 / 2.4
-# • Interprete a expressão e dê o resultado correto;
-# • Cada operação matemática deve ser uma função que retorna o resultado da 
-# operação para o chamador;
-# • A impressão do resultado deve ser feita a partir do chamador
-
 def soma(a, b):
     return a + b
 
